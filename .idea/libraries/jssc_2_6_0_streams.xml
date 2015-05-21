@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jssc-2.6.0-streams">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jssc-2.6.0-streams.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jssc-2.6.0-streams.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jssc-2.6.0-streams.jar!/src/cpp/windows" />
+    </SOURCES>
+  </library>
+</component>
